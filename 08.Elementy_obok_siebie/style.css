@@ -1,0 +1,36 @@
+.one {
+  border: 1px solid black;
+  float: right;
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  margin: 15px;
+}
+
+.two {
+  border: solid black 1px;
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+  margin: 15px;
+}
+
+.three {
+  border: solid 1px;
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.four {
+  border: solid 1px;
+  margin-left: -1px;
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+p {
+  front-sieze: 18px;
+   color:purple;
+   border: dotted;
+}
