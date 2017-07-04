@@ -1,0 +1,20 @@
+div {
+  width: 800px;
+  background-color: rgba(70, 132, 153, 0.4);
+  opacity: 0.5;
+  background-color: rgba(46, 74, 117, 1);
+}
+#jpg {
+  background-image: url(http://kaboompics.com/cache/d/5/b/4/9/d5b49d7edc26d55d09af69817a5632046d5a52b0.jpeg?version=v17);
+  opacity: 5;
+  width: 400px;
+  height: 400px;
+}
+#obrazek {
+  background-image: url(http://kaboompics.com/cache/0/3/9/7/b/0397b8c8ef937cc61ff71fb41ca9e8f06519d7ff.jpeg?version=v17);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+  opacity: inherit;10;
+  background-position: center;
+}
