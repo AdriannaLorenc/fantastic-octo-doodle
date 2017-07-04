@@ -1,0 +1,25 @@
+div {
+  text-align: center;
+  width: 500px;
+}
+h1 {
+  background-color: #ACC4CE;
+  color: white;
+  vertical-align: 20px;
+  text-shadow: #878787;
+  height: 30px;
+  width: 400px;
+  font-size: 20px;
+  font-style: Verdana;
+}
+p {
+  color: grey;
+  vertical-align: 14px;
+  height: 20px;
+  text-indent: 20px;
+}
+span {
+  font-style: Arial;
+  font-style: #395075;
+  height: line:20px;
+}
