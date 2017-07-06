@@ -1,0 +1,38 @@
+.one{
+  background-color:#77eeff;
+  border-style: solid 1px;
+  width: 350px;
+  height: 50px;
+}
+.two{
+background-color:#c39797;
+border-style: solid 1px;
+width: 150px;
+height: 50px;
+}
+.zmiana{
+  background-color: rgba(102,51,51);
+  width: 60%;
+}
+#hsla{
+  background-color:hsla(0.43,100%,50%, 0.25);
+  width: 350px;
+}
+#three{
+  background-color: grey;
+  width: 200px;
+}
+.jeden{
+  background-color: orange;
+  width: 50%;
+}
+.dwa{
+  background-color:yellow;
+  width: 20%;
+}
+html{
+  font-size: 30px;
+}
+.rgba {
+  background-color: rgba(101, 211, 54, 0.25);
+}
